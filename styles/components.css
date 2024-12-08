@@ -15,6 +15,7 @@
 .button__image {
   width: 20px;
   filter: invert(100%);
+  cursor: pointer;
 }
 .button__text {
   z-index: 1;
