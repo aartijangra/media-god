@@ -19,6 +19,7 @@
 }
 .button__text {
   z-index: 1;
+  cursor: pointer;
 }
 
 .button--primary {
